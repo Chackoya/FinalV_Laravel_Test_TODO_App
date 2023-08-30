@@ -18,7 +18,7 @@ Note: first run of the app might take some time to build as there are packages n
 
 ## Important for windows users
 
-As said in the pdf, to run the app you need to simply have docker & docker compose (with docker desktop it's easy). But also to be able to run scripts bash. For winows sometimes this can be tricky and require additional steps.
+As said in the pdf, to run the app you need to simply have docker & docker compose (with docker desktop it's easy). But also to be able to run scripts bash. For windows sometimes this can be tricky and require additional steps.
 In that scenario (can't run bash scripts), just simply copy paste the contents (commands) of the setup.sh file and run them in the terminal. 
 The docker compose commands are not a problem to run on the terminal if Docker Desktop is installed. 
 
