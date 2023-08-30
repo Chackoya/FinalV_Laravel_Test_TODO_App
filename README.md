@@ -11,6 +11,7 @@ Please check out the PDF file "updated_laravel_instructionsfile_pdfversion.pdf" 
 
 link for the pdf in the github : https://github.com/Chackoya/FinalV_Laravel_Test_TODO_App/blob/main/updated_laravel_instructionsfile_pdfversion.pdf
 
+The app was developed on Ubuntu. Tested with Docker on Ubuntu and also on Windows for compatibility purposes.
 
 Note: first run of the app might take some time to build as there are packages needed to be installed (depending on the pc config this can go for some minutes - it really depends on setup).
 
